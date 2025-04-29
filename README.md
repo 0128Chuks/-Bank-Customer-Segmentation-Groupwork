@@ -1,2 +1,9 @@
 # -Bank-Customer-Segmentation-Groupwork
-This contains the files, notebook and report for the Data warehousing (7BUIS010W) groupwork in Bank Customer Segmentation
+This contains the files, notebook and report for the Data warehousing (7BUIS010W) group work in Bank Customer Segmentation
+
+Dataset for each session
+bank_trnsactions.csv - original dataset that has its data columns modified on excel for part A [Link](https://drive.google.com/file/d/1QmcskzwrD0gB2aET3hiFx_JzhjTqUUUV/view?usp=drive_link)
+
+rfm.csv - Dataset obtained after RFM segmentation for Part B [Link](https://drive.google.com/file/d/12sz_eGZHNLylQuJlAlsa0X-5KlNd3hqT/view?usp=drive_link)
+
+rfm_incl_location.csv - Dataset for Part C.
